@@ -1,4 +1,5 @@
 import selenium
+import pillow
 import time
 from selenium import webdriver
 path="C:/Users/CSC/Desktop/Selenium testing/chromedriver.exe"
